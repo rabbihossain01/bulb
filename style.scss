@@ -1,0 +1,25 @@
+
+body {
+    background: white;
+}
+
+.header {
+    text-align: center;
+    .section{
+        h2 {
+            font-size: 3.5rem;
+            text-transform: uppercase;
+        }
+        p {
+            font-size: 2rem;
+
+        }
+    }
+    button {
+         font-size: 1.5rem;
+         border-radius: 30px;
+         border: none;
+         padding:10px; margin:60px; background-color:orange; 
+
+    }
+}
